@@ -10,6 +10,7 @@ namespace SplitAuthors
 {
     class Program
     {
+        //
         static void Main(string[] args)
         {
             string pathInput = @"C:\Users\cweb\Desktop\input.csv";
